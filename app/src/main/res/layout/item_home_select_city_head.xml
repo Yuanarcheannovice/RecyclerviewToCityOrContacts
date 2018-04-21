@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ihsch_title"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/app_divider_color"
+    android:orientation="vertical"
+    android:paddingBottom="5dp"
+    android:paddingLeft="10dp"
+    android:paddingTop="5dp"
+    android:textColor="@color/app_txt_black_0"
+    android:textSize="16sp">
+
+</TextView>
